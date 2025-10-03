@@ -1,0 +1,344 @@
+ssh-keygen
+cd
+pwd
+is -la
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+cd
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+sudo apt install git
+git --version
+git clone (git@github.com:pxrziv4l/Martes.git)
+git clone git@github.com:pxrziv4l/Martes.git
+git status
+git add README
+git clone git@github.com:pxrziv4l/Martes.git
+cd
+pwd
+ls -la
+cd .ssh
+ls -la
+cd
+sudo apt install git
+git --version
+git clone git@github.com:pxrziv4l/Martes.git
+cp README Martes
+cp README Martes/
+cd Martes/
+ls -la
+git status
+git add README
+git status
+git commit -m "comentario"
+git commit -m "Primer archivo"
+git push origin main
+git commit -m "Primer archivo"
+omit --global
+git commit -m "Primer archivo"
+git push origin main
+git push -u origin main
+git version
+git config --global user.email "cruznatanael2003@gmail.com"
+git config --global user.name "Natanael"
+git commit -m "Primer archivo"
+git push origin main
+cd
+pwd
+ls -la
+cd repogit
+git clove git@github.com:pxrziv4l/TP_AySO.git
+git clone git@github.com:pxrziv4l/TP_AySO.git
+cd TP_AySO/
+pdw
+ls -l
+cd
+export VAGRANT_COLORS=auto
+cd repogit
+pwd
+ls -l
+TP_AySO/
+cd TP_AySO/
+pwd
+ls -l
+cat mtab
+cd
+cat /etc/mtab 
+man grep
+grep SYSFS /etc/mtab 
+ls -la
+cd bash_history
+cd gitconfig
+cd repogit
+TP_AySO/
+cd
+ls
+pwd
+ls -la
+cd repogit/
+ls
+cd TP_AySO/
+ls -l
+cd
+ls
+ls -la
+cd repogit/
+ls -la
+cd TP_AySO/
+ls -la
+saetetreeeeeeeeeeeeeeeeeeeees
+cd etcmtab
+ls -la
+pwd
+mmmmmmmmmmmbpwdddddddddddddssssakjals
+ctop
+htop
+ls -la
+cd repogit/
+cd TP_AySO/
+cd/
+cd
+cd/
+cd etc
+ls
+ls -la
+ls
+cat /etc/mtab 
+cat /etc/mtab ç
+cat /etc/mtab 
+man grep
+grep -i SYSFS /etc/mtab
+man grep
+grep -i SYSFS /etc/mtabl
+lsls
+s
+clear
+ls
+grep  SYSFS /etc/mtabl
+xt
+exit
+grep  SYSFS /etc/mtab
+grep -i SYSFS /etc/mtab
+grep home_url 
+clear
+ls
+grep home_url /etc/os-release 
+grep -i SYSFS /etc/mtab > datos_sys.txt
+ls
+cat datos_sys.txt 
+ls
+echo "Usuario=$(whoami)"> datos_usuarios.txt
+ls
+cat datos_usuarios.txt 
+git add.
+git add .
+git status
+git config -global usser.email "cruznatanael2332@gmail.com"
+git config --global usser.email "cruznatanael2332@gmail.com"
+git config --global user.email "cruznatanael2332@gmail.com"
+git config --global user.name "pxrziv4l"
+git config --global user.email "cruznatanael2332@gmail.com"
+git config user.name
+git config user.email
+git status
+ls
+cd repogit
+ls /la
+ls -la
+cd TP_AySO/
+ls -la
+cd ../../
+ls
+mv datos_sys.txt repogit/TP_AySO/datos_sys.txt
+mv datos_usuarios.txt repogit/TP_AySO/datos_usuarios.txt
+cd repogit/TP_AySO/
+ls 
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git add .
+git status
+git config user.name
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+git status
+git fetch origin\
+clear
+ls
+git fetch origin
+ats
+rrrrrrr
+git stuclearls
+cclrar
+clean
+eclear
+clearls
+ls
+ls -la
+atsls
+xit
+sls
+ls
+ls \
+ls
+cat \etc\mtab
+ls
+cat \etc\mtab
+grep SYSFS /etc/mtab
+grep SYSFS -i /etc/mtab
+ls
+cd repogit/
+cd TP_AySO/
+/etc
+man grep
+cat /etc/passwd
+grep /etc/passwd | awk -f: '{print $5, $6}' >> datos_usuario.txt
+ls
+cd repogit/TP_AySO/
+ls
+cat datos_usuario.txt 
+cat datos_usuarios.txt 
+mv datos_usuarios.txt datos_usuario.txt 
+ls
+cat datos_usuario.txt 
+grep "vagrant" /etc/passwd
+grep "vagrant" /etc/passwd | awk -F: '{print $5, $6}' 
+grep "vagrant" /etc/passwd | awk -F: '{print $5, $6}' >> datos_usuario.txt
+cat datos_usuario.txt 
+git commit -m "feat: Añadiendo información del Usuario"
+git status
+git add
+git add .
+git status
+git commit -m "feat: Añadiendo información del Usuario"
+ls
+cat README.md 
+cat << EOF >> README.md
+  Alumno: Natanael
+  Division: 115
+Turno: Mañana
+EOF
+
+cat README.md 
+git add .
+git status
+git commit -m "ADD: Añadiendo Readme y Datos Usuario"
+git push
+git status
+cd ..
+ls
+cd TP_AySO/
+ls
+ls -la
+whoami
+cat datos_sys.txt 
+sudo apt-get install tree\
+tree TP1/
+mkdir -p TP1/{arquitectura/Clase{1..5},so/{Clase{1..6}}}
+tree TP1/
+rm -r TP1/
+tree TP1/
+mkdir -p TP1/{arquitectura/Clase{1..5},so/{Clase{1..6}}
+tree TP1/
+rm -r TP1/
+tree TP1/
+mkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}
+tree TP1/
+cd pwd
+ls -la
+cd repogit/
+ls -la
+cd TP_AySO/
+ls
+cat README.md 
+cat datos_sys.txt 
+cat datos_usuario.txt 
+cat TP1/
+tree TP1/
+/etc/passwd
+cd repogit
+cd TP_AySO/
+tree TP1/
+history
+tree TP1/
+rm -r TP1/
+tree TP1/
+cd
+tree TP1/
+mkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}
+tree TP1/
+ls
+cat TP1/
+cat repogit/
+cd TP1/
+cd
+tree repogit/
+tree TP1/
+cd repogit/
+TP_AySO/
+cd /etc/passwd
+cat /etc/passwd
+history
+echo -e '#!/bin/bash\nmkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}' > script_dir.sh
+cat script_dir.sh 
+chmod +x script_dir.sh
+ls
+cd TP1/
+cd
+cat TP1/
+cat README 
+cat repogit/
+cd repogit/
+ls
+cd TP_AySO/
+ls
+clean
+clear
+ls
+cd
+mv script_dir.sh repogit/TP_AySO/
+cd repogit/TP_AySO/
+ls
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+rm.script_dir.sh.swp
+rm .script_dir.sh.swp
+git rm --cached .script_dir.sh.swp
+git status
+git commit -m "Elimino archivo swap .script_dir.sh.swp del repo"
+git push
+history
+history > ./historial.txt
+ls -l historial.txt 
+cat historial.txt 
+history -a
+ls 
+cp / .bash_history ./Historial_comandos_Cruz.txt
+cp .bash_history ./Historial_comandos_Cruz.txt
+history -a
+cat history -a
+cat history
+grep bash_history
+s
+ls
+ls -la
+rm historial.txt 
+ls -la
+cat .
+cd c .sdasdacd d    
+cd .cd
+history -a
+ls -la
+cd repogit/TP_AySO/
+ls -la
+cp .bash_history ./Historial_comandos_Cruz.txt
+histori -a
+history -a
+ls -la
